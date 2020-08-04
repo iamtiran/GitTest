@@ -13,6 +13,7 @@
 		7105F21824D9905C008DB912 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7105F21624D9905C008DB912 /* Main.storyboard */; };
 		7105F21A24D9905D008DB912 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7105F21924D9905D008DB912 /* Assets.xcassets */; };
 		7105F21D24D9905D008DB912 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7105F21B24D9905D008DB912 /* LaunchScreen.storyboard */; };
+		7105F24524D995BC008DB912 /* TestTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7105F24424D995BC008DB912 /* TestTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7105F21924D9905D008DB912 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7105F21C24D9905D008DB912 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7105F21E24D9905D008DB912 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7105F24424D995BC008DB912 /* TestTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				7105F21224D9905C008DB912 /* SceneDelegate.swift */,
 				7105F21424D9905C008DB912 /* ViewController.swift */,
 				7105F21624D9905C008DB912 /* Main.storyboard */,
+				7105F24424D995BC008DB912 /* TestTableViewController.swift */,
 				7105F21924D9905D008DB912 /* Assets.xcassets */,
 				7105F21B24D9905D008DB912 /* LaunchScreen.storyboard */,
 				7105F21E24D9905D008DB912 /* Info.plist */,
@@ -141,6 +144,7 @@
 				7105F21524D9905C008DB912 /* ViewController.swift in Sources */,
 				7105F21124D9905C008DB912 /* AppDelegate.swift in Sources */,
 				7105F21324D9905C008DB912 /* SceneDelegate.swift in Sources */,
+				7105F24524D995BC008DB912 /* TestTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
